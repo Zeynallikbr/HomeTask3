@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\bin\Debug\net8.0\hendesi.exe
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\bin\Debug\net8.0\hendesi.deps.json
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\bin\Debug\net8.0\hendesi.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\bin\Debug\net8.0\hendesi.dll
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\bin\Debug\net8.0\hendesi.pdb
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.dll
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\refint\hendesi.dll
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.pdb
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\ref\hendesi.dll
