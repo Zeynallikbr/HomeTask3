@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hendesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf73f4e72c2c941553e8f6ff0ab79d1262bfaa0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("hendesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hendesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

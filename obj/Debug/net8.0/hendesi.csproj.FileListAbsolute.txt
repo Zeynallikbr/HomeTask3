@@ -12,3 +12,4 @@ C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\refint\hendesi.dll
 C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.pdb
 C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.genruntimeconfig.cache
 C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\ref\hendesi.dll
+C:\Users\Admin\Desktop\C#\Home.task3\hendesi\obj\Debug\net8.0\hendesi.sourcelink.json
